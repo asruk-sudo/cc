@@ -1,0 +1,41 @@
+{
+
+ "Account": {
+     "Username": "ascin",
+     "Password": "cindy21"
+     },
+ "Target Profit": "73500",
+ "Target Win": "7500",
+ "Lose Target": "0",
+ "Reset If Target Profit": "OFF",
+ "Reset If Target Win": "OFF",
+ "Interval": "1",
+ "Config": [{
+
+     "Name Bet Set": "1⃣ Mining Chance 80 ‰",
+     "Base Bet": "0.003",
+     "Max Bet": "OFF",
+     "Chance": "70",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "80",
+          "Max": "85"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "3",
+              "If Win": "2"
+            }
+        },
+     "If Win": "1.7",
+     "If Lose": "1.8",
+     "Reset If Win": "2",
+     "Reset If Profit": "0.001",
+     "Interval": "0"
+     }
+  ],
+  "User-Agent": "Mozilla/5.0 (Linux; Android 8.1.0; vivo 1807 Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.89 Mobile Safari/537.36"
+
+}
